@@ -1,0 +1,188 @@
+2025-02-27 22:44:33,267 - __main__ - INFO - Starting preprocessing with 9 workers
+2025-02-27 22:44:33,268 - __main__ - INFO - Input directory: G:\毕业论文\data\processed_data
+2025-02-27 22:44:33,269 - __main__ - INFO - Output directory: G:\毕业论文\data\new_stand_np
+2025-02-27 22:44:33,269 - __main__ - INFO - Scaler directory: G:\毕业论文\gnss\by_scalers
+2025-02-27 22:44:33,269 - __main__ - INFO - Collecting global statistics for normalization...
+2025-02-27 22:46:44,540 - __main__ - INFO - Starting preprocessing with 9 workers
+2025-02-27 22:46:44,541 - __main__ - INFO - Input directory: G:\毕业论文\data\processed_data
+2025-02-27 22:46:44,541 - __main__ - INFO - Output directory: G:\毕业论文\data\new_stand_np
+2025-02-27 22:46:44,541 - __main__ - INFO - Scaler directory: G:\毕业论文\gnss\by_scalers
+2025-02-27 22:46:44,541 - __main__ - INFO - Collecting global statistics for normalization...
+2025-02-27 22:48:39,484 - __main__ - INFO - Excluding G:\毕业论文\data\processed_data\2020-12-10-22-17-us-ca-sjc-c\mi8 from global statistics collection
+2025-02-27 22:51:45,019 - __main__ - INFO - Excluding G:\毕业论文\data\processed_data\2021-03-16-20-40-us-ca-mtv-b\mi8 from global statistics collection
+2025-02-27 22:55:04,480 - __main__ - INFO - Excluding G:\毕业论文\data\processed_data\2021-08-24-20-32-us-ca-mtv-h\mi8 from global statistics collection
+2025-02-27 22:55:59,012 - __main__ - INFO - Excluding G:\毕业论文\data\processed_data\2021-12-07-19-22-us-ca-lax-d\mi8 from global statistics collection
+2025-02-27 22:57:01,971 - __main__ - INFO - Starting preprocessing with 10 workers
+2025-02-27 22:57:01,971 - __main__ - INFO - Input directory: G:\毕业论文\data\processed_data
+2025-02-27 22:57:01,971 - __main__ - INFO - Output directory: G:\毕业论文\data\new_stand_np
+2025-02-27 22:57:01,971 - __main__ - INFO - Scaler directory: G:\毕业论文\gnss\by_scalers
+2025-02-27 22:57:01,971 - __main__ - INFO - Collecting global statistics for normalization...
+2025-02-27 22:58:55,533 - __main__ - INFO - Excluding G:\毕业论文\data\processed_data\2020-12-10-22-17-us-ca-sjc-c\mi8 from global statistics collection
+2025-02-27 23:02:01,939 - __main__ - INFO - Excluding G:\毕业论文\data\processed_data\2021-03-16-20-40-us-ca-mtv-b\mi8 from global statistics collection
+2025-02-27 23:05:23,024 - __main__ - INFO - Excluding G:\毕业论文\data\processed_data\2021-08-24-20-32-us-ca-mtv-h\mi8 from global statistics collection
+2025-02-27 23:06:13,820 - __main__ - INFO - Excluding G:\毕业论文\data\processed_data\2021-12-07-19-22-us-ca-lax-d\mi8 from global statistics collection
+2025-02-27 23:07:19,932 - __main__ - INFO - Excluding G:\毕业论文\data\processed_data\2021-12-08-17-22-us-ca-lax-a\pixel6pro from global statistics collection
+2025-02-27 23:08:29,302 - __main__ - INFO - Excluding G:\毕业论文\data\processed_data\2022-01-26-20-02-us-ca-mtv-pe1\sm-g988b from global statistics collection
+2025-02-27 23:08:29,303 - __main__ - INFO - Excluding G:\毕业论文\data\processed_data\2022-02-24-18-29-us-ca-lax-o\mi8 from global statistics collection
+2025-02-27 23:08:54,069 - __main__ - INFO - Excluding G:\毕业论文\data\processed_data\2022-04-01-18-22-us-ca-lax-t\mi8 from global statistics collection
+2025-02-27 23:09:31,491 - __main__ - INFO - Excluding G:\毕业论文\data\processed_data\2022-05-13-20-57-us-ca-mtv-pe1\sm-g988b from global statistics collection
+2025-02-27 23:09:45,477 - __main__ - INFO - Excluding G:\毕业论文\data\processed_data\2022-08-04-20-07-us-ca-sjc-q\mi8 from global statistics collection
+2025-02-27 23:15:21,887 - __main__ - INFO - Excluding G:\毕业论文\data\processed_data\2023-09-06-18-04-us-ca\sm-s908b from global statistics collection
+2025-02-27 23:16:30,954 - __main__ - INFO - Excluding G:\毕业论文\data\processed_data\2023-09-07-22-47-us-ca-routebc2\pixel6pro from global statistics collection
+2025-02-27 23:16:56,107 - __main__ - INFO - Saved all scalers to G:\毕业论文\gnss\by_scalers
+2025-02-27 23:16:56,107 - __main__ - INFO - Finding all subdirectories to process...
+2025-02-27 23:16:56,131 - __main__ - INFO - Found 156 subdirectories to process
+2025-02-27 23:16:56,131 - __main__ - INFO - Processing traces in parallel...
+2025-02-27 23:17:35,336 - __mp_main__ - INFO - Skipping excluded trace: G:\毕业论文\data\processed_data\2020-12-10-22-17-us-ca-sjc-c\mi8
+2025-02-27 23:18:46,729 - __mp_main__ - INFO - Skipping excluded trace: G:\毕业论文\data\processed_data\2021-03-16-20-40-us-ca-mtv-b\mi8
+2025-02-27 23:20:34,980 - __mp_main__ - INFO - Skipping excluded trace: G:\毕业论文\data\processed_data\2021-08-24-20-32-us-ca-mtv-h\mi8
+2025-02-27 23:20:49,247 - __mp_main__ - INFO - Skipping excluded trace: G:\毕业论文\data\processed_data\2021-12-07-19-22-us-ca-lax-d\mi8
+2025-02-27 23:21:30,252 - __mp_main__ - INFO - Skipping excluded trace: G:\毕业论文\data\processed_data\2021-12-08-17-22-us-ca-lax-a\pixel6pro
+2025-02-27 23:22:03,486 - __mp_main__ - INFO - Skipping excluded trace: G:\毕业论文\data\processed_data\2022-01-26-20-02-us-ca-mtv-pe1\sm-g988b
+2025-02-27 23:22:03,487 - __mp_main__ - INFO - Skipping excluded trace: G:\毕业论文\data\processed_data\2022-02-24-18-29-us-ca-lax-o\mi8
+2025-02-27 23:22:05,007 - __mp_main__ - INFO - Skipping excluded trace: G:\毕业论文\data\processed_data\2022-04-01-18-22-us-ca-lax-t\mi8
+2025-02-27 23:22:19,318 - __mp_main__ - INFO - Skipping excluded trace: G:\毕业论文\data\processed_data\2022-05-13-20-57-us-ca-mtv-pe1\sm-g988b
+2025-02-27 23:22:41,308 - __mp_main__ - INFO - Skipping excluded trace: G:\毕业论文\data\processed_data\2022-08-04-20-07-us-ca-sjc-q\mi8
+2025-02-27 23:25:13,633 - __mp_main__ - INFO - Skipping excluded trace: G:\毕业论文\data\processed_data\2023-09-06-18-04-us-ca\sm-s908b
+2025-02-27 23:25:49,812 - __mp_main__ - INFO - Skipping excluded trace: G:\毕业论文\data\processed_data\2023-09-07-22-47-us-ca-routebc2\pixel6pro
+2025-02-27 23:26:20,676 - __main__ - INFO - Saving processed data for 139 traces...
+2025-02-27 23:26:20,685 - __main__ - INFO - Saved data for 2020-06-25-00-34-us-ca-mtv-sb-101_pixel4
+2025-02-27 23:26:20,692 - __main__ - INFO - Saved data for 2020-06-25-00-34-us-ca-mtv-sb-101_pixel4xl
+2025-02-27 23:26:20,700 - __main__ - INFO - Saved data for 2020-07-17-23-13-us-ca-sf-mtv-280_pixel4xl
+2025-02-27 23:26:20,709 - __main__ - INFO - Saved data for 2020-08-04-00-20-us-ca-sb-mtv-101_pixel5
+2025-02-27 23:26:20,718 - __main__ - INFO - Saved data for 2020-08-04-00-19-us-ca-sb-mtv-101_pixel4
+2025-02-27 23:26:20,731 - __main__ - INFO - Saved data for 2020-07-17-23-13-us-ca-sf-mtv-280_pixel4
+2025-02-27 23:26:20,740 - __main__ - INFO - Saved data for 2020-08-13-21-41-us-ca-mtv-sf-280_pixel4
+2025-02-27 23:26:20,749 - __main__ - INFO - Saved data for 2020-07-17-22-27-us-ca-mtv-sf-280_pixel4
+2025-02-27 23:26:20,760 - __main__ - INFO - Saved data for 2020-07-08-22-28-us-ca_pixel4
+2025-02-27 23:26:20,771 - __main__ - INFO - Saved data for 2020-07-08-22-28-us-ca_pixel4xl
+2025-02-27 23:26:20,778 - __main__ - INFO - Saved data for 2020-12-10-22-52-us-ca-sjc-c_pixel4
+2025-02-27 23:26:20,786 - __main__ - INFO - Saved data for 2020-12-10-22-52-us-ca-sjc-c_mi8
+2025-02-27 23:26:20,794 - __main__ - INFO - Saved data for 2020-12-10-22-52-us-ca-sjc-c_pixel5
+2025-02-27 23:26:20,803 - __main__ - INFO - Saved data for 2020-08-13-21-42-us-ca-mtv-sf-280_pixel5
+2025-02-27 23:26:20,810 - __main__ - INFO - Saved data for 2020-12-10-22-52-us-ca-sjc-c_pixel4xl
+2025-02-27 23:26:20,819 - __main__ - INFO - Saved data for 2020-08-13-21-41-us-ca-mtv-sf-280_pixel4xl
+2025-02-27 23:26:20,829 - __main__ - INFO - Saved data for 2021-01-04-21-50-us-ca-e1highway280driveroutea_mi8
+2025-02-27 23:26:20,839 - __main__ - INFO - Saved data for 2021-01-04-21-50-us-ca-e1highway280driveroutea_pixel4
+2025-02-27 23:26:20,849 - __main__ - INFO - Saved data for 2021-01-04-22-40-us-ca-mtv-a_mi8
+2025-02-27 23:26:20,859 - __main__ - INFO - Saved data for 2021-01-04-21-50-us-ca-e1highway280driveroutea_pixel5
+2025-02-27 23:26:20,866 - __main__ - INFO - Saved data for 2021-01-05-21-52-us-ca-mtv-d_mi8
+2025-02-27 23:26:20,874 - __main__ - INFO - Saved data for 2021-01-05-21-12-us-ca-mtv-d_mi8
+2025-02-27 23:26:20,880 - __main__ - INFO - Saved data for 2021-01-05-21-52-us-ca-mtv-d_pixel4
+2025-02-27 23:26:20,889 - __main__ - INFO - Saved data for 2021-01-05-21-12-us-ca-mtv-d_pixel4
+2025-02-27 23:26:20,898 - __main__ - INFO - Saved data for 2021-01-04-22-40-us-ca-mtv-a_pixel4
+2025-02-27 23:26:20,907 - __main__ - INFO - Saved data for 2021-01-04-22-40-us-ca-mtv-a_pixel5
+2025-02-27 23:26:20,916 - __main__ - INFO - Saved data for 2021-03-10-23-13-us-ca-mtv-h_mi8
+2025-02-27 23:26:20,924 - __main__ - INFO - Saved data for 2021-03-10-23-13-us-ca-mtv-h_pixel5
+2025-02-27 23:26:20,933 - __main__ - INFO - Saved data for 2021-03-16-20-40-us-ca-mtv-b_pixel4xl
+2025-02-27 23:26:20,941 - __main__ - INFO - Saved data for 2021-03-16-20-40-us-ca-mtv-b_pixel5
+2025-02-27 23:26:20,952 - __main__ - INFO - Saved data for 2021-03-16-18-59-us-ca-mtv-a_mi8
+2025-02-27 23:26:20,962 - __main__ - INFO - Saved data for 2021-03-16-18-59-us-ca-mtv-a_sm-g988b
+2025-02-27 23:26:20,969 - __main__ - INFO - Saved data for 2021-04-08-21-28-us-ca-mtv-k_pixel5
+2025-02-27 23:26:20,979 - __main__ - INFO - Saved data for 2021-03-16-18-59-us-ca-mtv-a_pixel5
+2025-02-27 23:26:20,989 - __main__ - INFO - Saved data for 2021-03-16-19-00-us-ca-mtv-a_pixel4xl
+2025-02-27 23:26:20,995 - __main__ - INFO - Saved data for 2021-04-08-21-28-us-ca-mtv-k_sm-g988b
+2025-02-27 23:26:21,005 - __main__ - INFO - Saved data for 2021-04-02-20-43-us-ca-mtv-f_mi8
+2025-02-27 23:26:21,017 - __main__ - INFO - Saved data for 2021-04-02-20-43-us-ca-mtv-f_pixel5
+2025-02-27 23:26:21,028 - __main__ - INFO - Saved data for 2021-04-02-20-43-us-ca-mtv-f_sm-g988b
+2025-02-27 23:26:21,035 - __main__ - INFO - Saved data for 2021-07-14-20-50-us-ca-mtv-e_pixel4
+2025-02-27 23:26:21,041 - __main__ - INFO - Saved data for 2021-07-14-20-50-us-ca-mtv-e_sm-g988b
+2025-02-27 23:26:21,048 - __main__ - INFO - Saved data for 2021-07-14-20-50-us-ca-mtv-e_pixel5
+2025-02-27 23:26:21,058 - __main__ - INFO - Saved data for 2021-07-19-20-49-us-ca-mtv-a_mi8
+2025-02-27 23:26:21,066 - __main__ - INFO - Saved data for 2021-07-19-20-49-us-ca-mtv-a_pixel4
+2025-02-27 23:26:21,080 - __main__ - INFO - Saved data for 2021-04-26-23-38-us-ca-mtv-h_mi8
+2025-02-27 23:26:21,090 - __main__ - INFO - Saved data for 2021-07-19-20-49-us-ca-mtv-a_pixel5
+2025-02-27 23:26:21,104 - __main__ - INFO - Saved data for 2021-04-26-23-38-us-ca-mtv-h_sm-g988b
+2025-02-27 23:26:21,116 - __main__ - INFO - Saved data for 2021-07-27-19-49-us-ca-mtv-b_mi8
+2025-02-27 23:26:21,126 - __main__ - INFO - Saved data for 2021-07-19-20-49-us-ca-mtv-a_sm-g988b
+2025-02-27 23:26:21,135 - __main__ - INFO - Saved data for 2021-08-04-20-40-us-ca-sjc-c_sm-g988b
+2025-02-27 23:26:21,144 - __main__ - INFO - Saved data for 2021-07-27-19-49-us-ca-mtv-b_pixel4
+2025-02-27 23:26:21,152 - __main__ - INFO - Saved data for 2021-07-27-19-49-us-ca-mtv-b_pixel5
+2025-02-27 23:26:21,161 - __main__ - INFO - Saved data for 2021-12-07-22-21-us-ca-lax-g_mi8
+2025-02-27 23:26:21,168 - __main__ - INFO - Saved data for 2021-12-07-22-21-us-ca-lax-g_pixel5
+2025-02-27 23:26:21,177 - __main__ - INFO - Saved data for 2021-12-07-19-22-us-ca-lax-d_pixel5
+2025-02-27 23:26:21,185 - __main__ - INFO - Saved data for 2021-12-07-22-21-us-ca-lax-g_pixel6pro
+2025-02-27 23:26:21,194 - __main__ - INFO - Saved data for 2021-12-07-19-22-us-ca-lax-d_pixel6pro
+2025-02-27 23:26:21,203 - __main__ - INFO - Saved data for 2021-12-07-19-22-us-ca-lax-d_sm-g988b
+2025-02-27 23:26:21,212 - __main__ - INFO - Saved data for 2021-12-07-22-21-us-ca-lax-g_sm-g988b
+2025-02-27 23:26:21,225 - __main__ - INFO - Saved data for 2021-08-24-20-32-us-ca-mtv-h_pixel4
+2025-02-27 23:26:21,232 - __main__ - INFO - Saved data for 2021-12-08-20-28-us-ca-lax-c_pixel5
+2025-02-27 23:26:21,238 - __main__ - INFO - Saved data for 2021-12-08-20-28-us-ca-lax-c_pixel6pro
+2025-02-27 23:26:21,244 - __main__ - INFO - Saved data for 2021-12-08-20-28-us-ca-lax-c_sm-g988b
+2025-02-27 23:26:21,258 - __main__ - INFO - Saved data for 2021-08-24-20-32-us-ca-mtv-h_sm-g988b
+2025-02-27 23:26:21,271 - __main__ - INFO - Saved data for 2021-08-24-20-32-us-ca-mtv-h_pixel5
+2025-02-27 23:26:21,279 - __main__ - INFO - Saved data for 2021-12-08-17-22-us-ca-lax-a_pixel5
+2025-02-27 23:26:21,286 - __main__ - INFO - Saved data for 2021-12-09-17-06-us-ca-lax-e_pixel5
+2025-02-27 23:26:21,293 - __main__ - INFO - Saved data for 2021-12-08-18-52-us-ca-lax-b_mi8
+2025-02-27 23:26:21,301 - __main__ - INFO - Saved data for 2021-12-08-18-52-us-ca-lax-b_pixel6pro
+2025-02-27 23:26:21,307 - __main__ - INFO - Saved data for 2022-01-11-18-48-us-ca-mtv-n_mi8
+2025-02-27 23:26:21,313 - __main__ - INFO - Saved data for 2022-01-11-18-48-us-ca-mtv-n_pixel5
+2025-02-27 23:26:21,319 - __main__ - INFO - Saved data for 2021-12-09-17-06-us-ca-lax-e_pixel6pro
+2025-02-27 23:26:21,329 - __main__ - INFO - Saved data for 2022-01-26-20-02-us-ca-mtv-pe1_mi8
+2025-02-27 23:26:21,338 - __main__ - INFO - Saved data for 2022-04-01-18-22-us-ca-lax-t_pixel6pro
+2025-02-27 23:26:21,346 - __main__ - INFO - Saved data for 2022-04-01-18-22-us-ca-lax-t_pixel5
+2025-02-27 23:26:21,355 - __main__ - INFO - Saved data for 2022-01-26-20-02-us-ca-mtv-pe1_pixel5
+2025-02-27 23:26:21,362 - __main__ - INFO - Saved data for 2022-07-26-21-01-us-ca-sjc-s_samsunga325g
+2025-02-27 23:26:21,373 - __main__ - INFO - Saved data for 2022-07-26-21-01-us-ca-sjc-s_pixel5
+2025-02-27 23:26:21,385 - __main__ - INFO - Saved data for 2022-05-13-20-57-us-ca-mtv-pe1_pixel6pro
+2025-02-27 23:26:21,397 - __main__ - INFO - Saved data for 2022-02-24-18-29-us-ca-lax-o_pixel6pro
+2025-02-27 23:26:21,407 - __main__ - INFO - Saved data for 2022-02-24-18-29-us-ca-lax-o_pixel5
+2025-02-27 23:26:21,414 - __main__ - INFO - Saved data for 2022-10-06-21-51-us-ca-mtv-n_sm-a325f
+2025-02-27 23:26:21,421 - __main__ - INFO - Saved data for 2022-08-04-20-07-us-ca-sjc-q_sm-a325f
+2025-02-27 23:26:21,430 - __main__ - INFO - Saved data for 2022-05-13-20-57-us-ca-mtv-pe1_samsungs21ultra
+2025-02-27 23:26:21,437 - __main__ - INFO - Saved data for 2022-11-15-00-53-us-ca-mtv-a_pixel5
+2025-02-27 23:26:21,445 - __main__ - INFO - Saved data for 2022-08-04-20-07-us-ca-sjc-q_pixel5
+2025-02-27 23:26:21,452 - __main__ - INFO - Saved data for 2022-11-15-00-53-us-ca-mtv-a_pixel7
+2025-02-27 23:26:21,458 - __main__ - INFO - Saved data for 2022-11-15-00-53-us-ca-mtv-a_pixel7pro
+2025-02-27 23:26:21,464 - __main__ - INFO - Saved data for 2023-03-08-21-34-us-ca-mtv-u_pixel5
+2025-02-27 23:26:21,470 - __main__ - INFO - Saved data for 2023-03-08-21-34-us-ca-mtv-u_pixel6pro
+2025-02-27 23:26:21,477 - __main__ - INFO - Saved data for 2023-03-08-21-34-us-ca-mtv-u_pixel7pro
+2025-02-27 23:26:21,484 - __main__ - INFO - Saved data for 2023-05-19-20-10-us-ca-mtv-ie2_pixel5
+2025-02-27 23:26:21,490 - __main__ - INFO - Saved data for 2023-05-23-19-16-us-ca-mtv-ie2_pixel5
+2025-02-27 23:26:21,497 - __main__ - INFO - Saved data for 2023-05-19-20-10-us-ca-mtv-ie2_pixel7pro
+2025-02-27 23:26:21,503 - __main__ - INFO - Saved data for 2023-05-23-19-16-us-ca-mtv-ie2_sm-s908b
+2025-02-27 23:26:21,510 - __main__ - INFO - Saved data for 2023-05-19-20-10-us-ca-mtv-ie2_sm-s908b
+2025-02-27 23:26:21,521 - __main__ - INFO - Saved data for 2023-05-09-21-32-us-ca-mtv-pe1_pixel7pro
+2025-02-27 23:26:21,532 - __main__ - INFO - Saved data for 2023-05-09-21-32-us-ca-mtv-pe1_pixel5
+2025-02-27 23:26:21,544 - __main__ - INFO - Saved data for 2023-05-16-19-54-us-ca-mtv-xe1_pixel5
+2025-02-27 23:26:21,554 - __main__ - INFO - Saved data for 2023-05-09-21-32-us-ca-mtv-pe1_samsungs22ultra
+2025-02-27 23:26:21,566 - __main__ - INFO - Saved data for 2023-05-16-19-55-us-ca-mtv-xe1_pixel7pro
+2025-02-27 23:26:21,573 - __main__ - INFO - Saved data for 2023-05-23-19-56-us-ca-mtv-ie2_sm-a226b
+2025-02-27 23:26:21,579 - __main__ - INFO - Saved data for 2023-05-23-19-56-us-ca-mtv-ie2_sm-a505g
+2025-02-27 23:26:21,587 - __main__ - INFO - Saved data for 2023-05-23-19-56-us-ca-mtv-ie2_sm-a600t
+2025-02-27 23:26:21,595 - __main__ - INFO - Saved data for 2023-05-24-20-26-us-ca-sjc-ge2_pixel5
+2025-02-27 23:26:21,601 - __main__ - INFO - Saved data for 2023-05-24-20-26-us-ca-sjc-ge2_pixel7pro
+2025-02-27 23:26:21,609 - __main__ - INFO - Saved data for 2023-05-25-19-10-us-ca-sjc-be2_pixel5
+2025-02-27 23:26:21,616 - __main__ - INFO - Saved data for 2023-05-25-19-10-us-ca-sjc-be2_pixel7pro
+2025-02-27 23:26:21,624 - __main__ - INFO - Saved data for 2023-05-25-20-11-us-ca-sjc-he2_pixel5
+2025-02-27 23:26:21,632 - __main__ - INFO - Saved data for 2023-05-25-20-11-us-ca-sjc-he2_pixel7pro
+2025-02-27 23:26:21,638 - __main__ - INFO - Saved data for 2023-05-25-19-10-us-ca-sjc-be2_sm-s908b
+2025-02-27 23:26:21,645 - __main__ - INFO - Saved data for 2023-05-25-20-11-us-ca-sjc-he2_sm-s908b
+2025-02-27 23:26:21,653 - __main__ - INFO - Saved data for 2023-05-26-18-51-us-ca-sjc-ge2_pixel5
+2025-02-27 23:26:21,660 - __main__ - INFO - Saved data for 2023-05-26-18-50-us-ca-sjc-ge2_sm-s908b
+2025-02-27 23:26:21,668 - __main__ - INFO - Saved data for 2023-05-26-18-51-us-ca-sjc-ge2_pixel7pro
+2025-02-27 23:26:21,677 - __main__ - INFO - Saved data for 2023-06-06-23-26-us-ca-sjc-he2_sm-a226b
+2025-02-27 23:26:21,685 - __main__ - INFO - Saved data for 2023-09-05-20-59-us-ca_pixel5a
+2025-02-27 23:26:21,693 - __main__ - INFO - Saved data for 2023-09-05-20-59-us-ca_pixel4xl
+2025-02-27 23:26:21,701 - __main__ - INFO - Saved data for 2023-09-05-20-13-us-ca_pixel5
+2025-02-27 23:26:21,708 - __main__ - INFO - Saved data for 2023-09-05-20-13-us-ca_pixel7pro
+2025-02-27 23:26:21,718 - __main__ - INFO - Saved data for 2023-09-05-23-07-us-ca-routen_pixel5
+2025-02-27 23:26:21,726 - __main__ - INFO - Saved data for 2023-09-05-23-07-us-ca-routen_pixel7pro
+2025-02-27 23:26:21,737 - __main__ - INFO - Saved data for 2023-09-06-00-01-us-ca-routen_pixel5a
+2025-02-27 23:26:21,746 - __main__ - INFO - Saved data for 2023-09-06-00-01-us-ca-routen_sm-g955f
+2025-02-27 23:26:21,754 - __main__ - INFO - Saved data for 2023-09-06-00-01-us-ca-routen_pixel6pro
+2025-02-27 23:26:21,761 - __main__ - INFO - Saved data for 2023-09-06-18-04-us-ca_pixel5
+2025-02-27 23:26:21,768 - __main__ - INFO - Saved data for 2023-09-06-18-04-us-ca_pixel7pro
+2025-02-27 23:26:21,775 - __main__ - INFO - Saved data for 2023-09-06-18-47-us-ca_pixel4xl
+2025-02-27 23:26:21,783 - __main__ - INFO - Saved data for 2023-09-06-18-47-us-ca_pixel6pro
+2025-02-27 23:26:21,790 - __main__ - INFO - Saved data for 2023-09-07-19-33-us-ca_pixel4xl
+2025-02-27 23:26:21,797 - __main__ - INFO - Saved data for 2023-09-07-18-59-us-ca_pixel7pro
+2025-02-27 23:26:21,803 - __main__ - INFO - Saved data for 2023-09-07-18-59-us-ca_pixel5
+2025-02-27 23:26:21,810 - __main__ - INFO - Saved data for 2023-09-06-22-49-us-ca-routebb1_pixel7pro
+2025-02-27 23:26:21,817 - __main__ - INFO - Saved data for 2023-09-07-19-33-us-ca_pixel5a
+2025-02-27 23:26:21,823 - __main__ - INFO - Saved data for 2023-09-07-19-33-us-ca_pixel6pro
+2025-02-27 23:26:21,830 - __main__ - INFO - Saved data for 2023-09-07-19-33-us-ca_sm-g955f
+2025-02-27 23:26:21,838 - __main__ - INFO - Saved data for 2023-09-06-22-49-us-ca-routebb1_sm-s908b
+2025-02-27 23:26:21,846 - __main__ - INFO - Saved data for 2023-09-07-22-48-us-ca-routebc2_pixel5a
+2025-02-27 23:26:21,856 - __main__ - INFO - Saved data for 2023-09-07-22-48-us-ca-routebc2_pixel4xl
+2025-02-27 23:26:21,856 - __main__ - INFO - Preprocessing completed successfully
